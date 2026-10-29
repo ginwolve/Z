@@ -1,0 +1,8 @@
+alias cg='cargo'
+alias cgr='cargo run'
+alias cgrr='cargo run --release'
+alias cgb='cargo build'
+alias cgbr='cargo build --release'
+alias cgf='cargo fmt'
+alias cgc='cargo clippy'
+alias cgt='cargo test'

@@ -1,0 +1,5 @@
+alias b1='btop -u 100'
+alias b2='btop -u 100'
+alias b3='btop -u 300'
+alias b5='btop -u 500'
+alias b10='btop -u 1000'

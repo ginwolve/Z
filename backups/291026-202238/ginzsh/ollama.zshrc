@@ -1,0 +1,5 @@
+alias ol='ollama'
+alias ols='ollama list'
+alias olp='ollama pull'
+alias olru='ollama run'
+alias olrm='ollama rm'

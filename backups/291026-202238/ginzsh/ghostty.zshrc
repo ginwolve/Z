@@ -1,0 +1,1 @@
+alias gttyr='osascript -e '\''tell application "Ghostty" to activate'\'' && osascript -e '\''tell application "System Events" to keystroke "," using {command down, shift down}'\'''

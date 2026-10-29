@@ -1,0 +1,6 @@
+alias nz="nano $ZSHRC_PATH"
+alias sz="source $ZSHRC_PATH"
+alias cz="code $ZSHRC_PATH"
+alias bz="cp $ZSHRC_PATH $ZSHRC_PATH.bak"
+alias iz="cp $ZSHRC_PATH $GITGINXVI_PATH/recent-zshrc/zshrc-${RECENT_TIME}.bak"
+alias ez="cp $GITGINXVI_PATH/perfect-zshrc/pf.zshrc $HOME/.zshrc && source $HOME/.zshrc"
